@@ -11,6 +11,6 @@ yolov1 to pytorch
 [yolov1-tiny.weights](http://pjreddie.com/media/files/yolov1/tiny-yolov1.weights)
 
 # Reference
-https://pjreddie.com/darknet/yolov1/
+https://pjreddie.com/darknet/yolov1/  
 https://github.com/AlexeyAB/darknet  
 https://blog.csdn.net/samylee
